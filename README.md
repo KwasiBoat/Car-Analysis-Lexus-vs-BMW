@@ -12,7 +12,7 @@ This repository contains the data, analysis notebooks, and supporting scripts us
 
 ---
 
-![Dashboard(]
+![Dashboard](dashboard/LexusVsBMW_dashboard.png)
 
 ## Key findings (high level)
 - **Total combined revenue:** $38bn (dashboard total).  
@@ -78,9 +78,11 @@ lexus-vs-bmw-2024/
 │  ├─ raw/
 │  │  └─ Lexus_Vs_BMW_2024_Sales.csv
 ├─ dashboards/
-│  └─ Lexus_vs_BMW_2024.pbix
+│  └─ LexusVsBMWAnalysis.pbix
+│  └─ LexusVsBMW_dashboard.png
 ├─ reports/
-│  └─ Lexus vs BMW Analysis.pdf
+│  └─ LexusVsBMWAnalysis.pdf
+│  └─ Lexus_vs_BMW_2024_Sales_Analysis_Report.pdf
 ├─ README.md
 └─ LICENSE
 ```
