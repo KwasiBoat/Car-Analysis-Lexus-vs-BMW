@@ -8,7 +8,7 @@
 ---
 
 ## Executive summary
-This repository contains the data, analysis notebooks, and supporting scripts used to compare Lexus and BMW sales performance for the 2024 calendar year. The dashboards (Power BI) reveal that BMW leads overall revenue and units sold for 2024, while Lexus shows higher average transaction values (particularly for SUVs) and greater total incentives. Key high-level numbers (from the uploaded dashboard snapshot) are cited in the analysis report inside `reports/`. See [dashboard visuals](reports/Lexus%20vs%20BMW%20Analysis.pdf) for the full report.
+This repository contains the data, analysis notebooks, and supporting scripts used to compare Lexus and BMW sales performance for the 2024 calendar year. The dashboards (Power BI) reveal that BMW leads overall revenue and units sold for 2024, while Lexus shows higher average transaction values (particularly for SUVs) and greater total incentives. Key high-level numbers (from the uploaded dashboard snapshot) are cited in the analysis report inside `reports/`. See [dashboard visuals](reports/LexusVsBMWAnalysis.pdf) for the full report view.
 
 ---
 
