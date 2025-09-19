@@ -8,7 +8,7 @@
 ---
 
 ## Executive summary
-This repository contains the data, analysis notebooks, and supporting scripts used to compare Lexus and BMW sales performance for the 2024 calendar year. The dashboards (Power BI) reveal that BMW leads overall revenue and units sold for 2024, while Lexus shows higher average transaction values (particularly for SUVs) and greater total incentives. Key high-level numbers (from the uploaded dashboard snapshot) are cited in the analysis report inside `reports/`. See `reports/Lexus vs BMW Analysis.pdf` for the dashboard visuals. fileciteturn0file0
+This repository contains the data, analysis notebooks, and supporting scripts used to compare Lexus and BMW sales performance for the 2024 calendar year. The dashboards (Power BI) reveal that BMW leads overall revenue and units sold for 2024, while Lexus shows higher average transaction values (particularly for SUVs) and greater total incentives. Key high-level numbers (from the uploaded dashboard snapshot) are cited in the analysis report inside `reports/`. See [dashboard visuals](reports/Lexus%20vs%20BMW%20Analysis.pdf) for the full report.
 
 ---
 
@@ -23,7 +23,7 @@ This repository contains the data, analysis notebooks, and supporting scripts us
   - BMW: X5 (~$6.1bn), X3 (~$4.4bn), 3 Series (~$3.8bn).  
   - Lexus: RX (~$4.3bn), NX (~$2.3bn), ES (~$1.7bn).  
 - **Body-style & pricing:** SUVs dominate revenue share. Dashboard shows Lexus SUV avg transaction notably high (~$22.6M for SUVs vs $5.92M for sedans), and BMW SUV vs sedan values shown around ~$20.08M vs ~$17.68M.  
-All numbers above reflect values presented in the uploaded Power BI export. For raw data-level confirmation, run the notebooks in `notebooks/`. fileciteturn0file0
+All numbers above reflect values presented in the uploaded Power BI export.
 
 ---
 
