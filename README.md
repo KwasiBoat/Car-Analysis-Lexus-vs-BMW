@@ -1,5 +1,5 @@
 
-# Lexus vs BMW — 2024 Sales Analysis
+# Lexus vs BMW - 2024 Sales Analysis
 
 **Project:** Lexus vs BMW — 2024 Sales Comparison  
 **Author:** (Your name here)  
@@ -71,7 +71,7 @@ All numbers above reflect values presented in the uploaded Power BI export. For 
 
 ---
 
-## Project structure (suggested)
+## Project structure
 ```
 lexus-vs-bmw-2024/
 ├─ data/
